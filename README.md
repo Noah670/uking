@@ -26,7 +26,7 @@ Because meaningfully splitting the code is not feasible, the built executable cu
 * devkitA64
     * [Follow this guide to set it up.](https://switchbrew.org/wiki/Setting_up_Development_Environment#Setup)
 
-Using Linux (or WSL) is recommended but not required. The rest of this guide assumes that you are using a Linux environment, though.
+ Using Linux (or WSL) is recommended but not required. The rest of this guide assumes that you are using a Linux environment, though.
 
 ### Building for Switch
 
